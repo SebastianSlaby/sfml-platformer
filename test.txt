@@ -1,0 +1,6 @@
+Jeżeli obiekt jest statyczny{
+    zapisz raz do vectora;
+}
+Jeżeli jest ruchomy{
+    jeśli obiekt zmienia pozycję to usunie popszedni wpis z vectora i da swój??? Jak sprawdzić który wpis jest danego obiektu
+}
